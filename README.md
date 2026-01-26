@@ -1,31 +1,33 @@
 👋 Hi, I’m Yugandhar Chamana
 
-🎓 Recent B.Tech Graduate | 💻 Full Stack Developer Aspirant
-I’m a motivated developer aspiring to become a Full Stack Developer, with hands-on experience in building user-friendly web applications 🌐. I enjoy learning and working across frontend, backend, and databases, focusing on clean code and building REST APIs ⚙️.
+🎓 B.Tech Graduate | Full Stack Developer Aspirant
+💻 Frontend-Driven • Backend-Capable • API-Focused
+
+I’m a results-driven aspiring Full Stack Developer with hands-on experience building scalable, user-centric web applications. I enjoy working across the entire development lifecycle—from crafting clean, responsive UIs to designing robust RESTful APIs and managing data efficiently.
+I believe in writing clean, maintainable code, understanding why things work, and continuously improving through real projects and problem-solving.
 
 🛠️ Skills & Tech Stack
+🎨 Frontend:⚛️ React.js | JavaScript (ES6+) | HTML5 | CSS3 | Responsive UI
+⚙️ Backend:🟢 Node.js | 🚂 Express.js | REST API Development
+🗄️ Database:🍃 MongoDB | Mongoose
+🧰 Tools & Workflow:🐙 Git & GitHub | 📮 Postman | 💻 VS Code
 
-Frontend: React.js ⚛️ | JavaScript (ES6+) | HTML5 🧱 | CSS3 🎨
-Backend: Node.js 🟢 | Express.js 🚂
-Database: MongoDB 🍃
-Tools: Git & GitHub 🐙 | Postman 📮 | VS Code 💻
-Concepts: REST APIs 🔗 | MVC Architecture 🧠 | Responsive Design 📱
+🧠 Core Concepts
+🔗 REST APIs | 🧩 MVC Architecture | 📱 Responsive Design | 🔍 Debugging & Optimization
 
-💼 Experience
+💼 Internship Experience
 
-Frontend Developer – Gollamudi Technology Software
-🚀 Built reusable React components and integrated APIs to improve UX.
+🚀 Frontend Developer Intern – Gollamudi Technology Software
+• Built reusable React components for scalable UI development
+• Integrated backend APIs to enhance performance and user experience
+• Collaborated in a real-world development environment following best practices
 
-🎯 Interests
-*💡 Full Stack Development 
-• 🧩 Problem Solving 
-• 🏗️ Building Scalable Products
+🎯 Professional Interests
+-> Full Stack Development
+-> Problem Solving & Logical Thinking
+-> Building Scalable, Production-Ready Applications
 
-📫 Open to opportunities, learning, and collaborations 🤝
-
-📧 yugandharchamana935@gmail.com
-🔗 https://www.linkedin.com/in/yugandhar-chamana-719373252/
-
-
-
-
+📫 Let’s Connect
+🤝 Open to Full Stack / Frontend Developer opportunities, internships, and collaborations
+📧 Email: yugandharchamana935@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/yugandhar-chamana-719373252/
